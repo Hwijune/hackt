@@ -1,4 +1,4 @@
-#https://programmers.co.kr/learn/courses/30/lessons/12935
+//https://programmers.co.kr/learn/courses/30/lessons/12935
 
 func solution(arr []int) []int {
 	arr_len := len(arr)
