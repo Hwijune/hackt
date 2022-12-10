@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    126.97,
+                    37.584
+                ],
+                [
+                    126.965,
+                    37.586
+                ],
+                [
+                    126.97,
+                    37.583
+                ],
+                [
+                    126.97,
+                    37.584
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "EMD_CD": "11110102",
+        "EMD_ENG_NM": "Singyo-dong",
+        "EMD_KOR_NM": "신교동"
+    }
+}
