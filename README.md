@@ -1,3 +1,3 @@
 #my study
 
-my study
+ML/AI study
