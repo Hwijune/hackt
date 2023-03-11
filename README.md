@@ -1,3 +1,3 @@
-# code study
+# study
 
-code study
+study
