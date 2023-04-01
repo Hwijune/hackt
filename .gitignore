@@ -1,3 +1,4 @@
 *Zone.Identifier
 *.tmp.drive*
 .ipynb_checkpoints
+*.pkl
