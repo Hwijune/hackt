@@ -1,0 +1,112 @@
+title,genre,movieId
+GoldenEye,Action,9
+Mortal Kombat,Action,40
+Cliffhanger,Action,378
+Striking Distance,Action,477
+The Phantom,Action,1978
+The Crow,Action,2289
+Die Hard,Action,138
+Top Gun,Action,838
+Highlander,Action,350
+Young Guns,Action,1060
+Con Air,Action,1170
+Tomorrow Never Dies,Action,1291
+Saving Private Ryan,Action,1502
+Enemy of the State,Action,1754
+Ace Ventura: Pet Detective,Comedy,302
+Four Rooms,Comedy,17
+Bio-Dome,Comedy,58
+Friday,Comedy,61
+Black Sheep,Comedy,79
+Happy Gilmore,Comedy,92
+Canadian Bacon,Comedy,130
+Down Periscope,Comedy,113
+Billy Madison,Comedy,184
+Dumb and Dumber,Comedy,197
+Tommy Boy,Comedy,291
+Airheads,Comedy,357
+Cabin Boy,Comedy,373
+Dazed and Confused,Comedy,384
+Nixon,Drama,13
+Dangerous Minds,Drama,30
+Mr. Holland's Opus,Drama,55
+Apollo 13,Drama,123
+Little Women,Drama,225
+What's Eating Gilbert Grape,Drama,295
+Mrs. Doubtfire,Drama,436
+Philadelphia,Drama,443
+Poetic Justice,Drama,445
+Rudy,Drama,459
+Schindler's List,Drama,461
+Tombstone,Drama,485
+Dances with Wolves,Drama,508
+Basquiat,Drama,657
+From Dusk Till Dawn,Horror,62
+Army of Darkness,Horror,915
+The Shining,Horror,9633
+The Birds,Horror,7928
+Candyman,Horror,519
+Jaws,Horror,1066
+Scream,Horror,64
+Friday the 13th,Horror,1450
+Halloween,Horror,675
+Child's Play,Horror,1465
+Poltergeist,Horror,1468
+The Exorcist,Horror,5888
+Cujo,Horror,1581
+House,Horror,212
+Toy Story,Animation,0
+Aladdin,Animation,506
+Heavy Metal,Animation,522
+Space Jam,Animation,559
+Cinderella,Animation,780
+Dumbo,Animation,565
+Pete's Dragon,Animation,787
+Alice in Wonderland,Animation,789
+Akira,Animation,972
+Lady and the Tramp,Animation,1543
+All Dogs Go to Heaven,Animation,534
+Shrek,Animation,3189
+12 Monkeys,Sci-Fi,31
+Ghost in the Shell,Sci-Fi,596
+Alien,Sci-Fi,901
+Dark City,Sci-Fi,1304
+Dune,Sci-Fi,1495
+District 9,Sci-Fi,7073
+Unbreakable,Sci-Fi,2978
+Star Wars,Sci-Fi,224
+Jurassic Park,Sci-Fi,418
+Stargate,Sci-Fi,275
+Demolition Man,Sci-Fi,385
+Independence Day,Sci-Fi,615
+2001: A Space Odyssey,Sci-Fi,706
+Waterworld,Sci-Fi,176
+Back to the Future,Sci-Fi,968
+Casino,Crime,15
+Heat,Crime,5
+Get Shorty,Crime,20
+Bottle Rocket,Crime,89
+Hackers,Crime,142
+Judge Dredd,Crime,145
+Natural Born Killers,Crime,249
+Pulp Fiction,Crime,257
+L?on: The Professional,Crime,254
+Above the Rim,Crime,354
+Hard Target,Crime,403
+Judgment Night,Crime,417
+The Godfather,Crime,9523
+Waiting to Exhale,Romance,3
+Sense and Sensibility,Romance,16
+Boomerang,Romance,106
+Rob Roy,Romance,124
+Mallrats,Romance,152
+Legends of the Fall,Romance,229
+Forrest Gump,Romance,314
+Sleepless in Seattle,Romance,472
+Ghost,Romance,505
+Jane Eyre,Romance,525
+Dirty Dancing,Romance,826
+Good Will Hunting,Romance,1283
+Titanic,Romance,1290
+As Good as It Gets,Romance,1321
+Indecent Proposal,Romance,1687
